@@ -148,3 +148,7 @@ tests/test_api.py::test_dijkstra_shortest_path PASSED
 | **Testing** | 33 pytest tests covering correctness, edge cases, error paths |
 | **Docker** | Single-stage lean image |
 | **CI/CD** | GitHub Actions lint + test pipeline |
+
+---
+
+**Harshita Guduru** — [GitHub](https://github.com/guduruharshita) · [LinkedIn](https://linkedin.com/in/guduruharshita) · [Email](mailto:guduruharshita2001@gmail.com)
