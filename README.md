@@ -6,7 +6,6 @@
 [![Algorithms](https://img.shields.io/badge/Algorithms-9-brightgreen?logo=python)](src/graph_algo/algorithms/)
 [![Tests](https://img.shields.io/badge/Tests-33%20passing-success?logo=pytest)](tests/)
 [![Zero Dependencies](https://img.shields.io/badge/Core-Zero%20Dependencies-blue)](pyproject.toml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Production-ready **graph algorithm library** with REST API. Implements 9 fundamental graph algorithms from scratch in pure Python — zero non-standard dependencies in the core library.
 
